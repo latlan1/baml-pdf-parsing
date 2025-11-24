@@ -1,0 +1,22 @@
+[project]
+name = "baml-pdf-parsing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "baml-py>=0.213.0",
+    "fuzzywuzzy>=0.18.0",
+    "ipykernel>=7.1.0",
+    "pandas>=2.3.3",
+    "pathlib>=1.0.1",
+    "pdf2image>=1.17.0",
+    "pillow>=12.0.0",
+    "pip>=25.3",
+    "pydantic>=2.12.4",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.2.1",
+    "python-levenshtein>=0.27.3",
+    "tabulate>=0.9.0",
+    "typing-extensions>=4.15.0",
+]
