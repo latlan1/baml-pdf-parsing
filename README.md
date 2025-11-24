@@ -24,6 +24,8 @@ Quick setup (using uv)
    - fuzzywuzzy has an optional speedup (python-Levenshtein). Add it if desired:
      uv add python-Levenshtein
 
+Ensure that the ANTHROPIC_API_KEY is set in a .env file.
+
 Follow (guide)[https://docs.boundaryml.com/guide/installation-language/python] to setup BAML
 ```
 uv init
